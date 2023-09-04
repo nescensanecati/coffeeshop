@@ -8,4 +8,4 @@ Two weeks into the bootcamp, it was time to be more involved into using HTML and
 This site is sized to be consumed at 1280 pixels, every other screen size might cause very noticeable formatting issues.
 
 If you want to see this project deployed and in action, please go to: 
-https://cute-gumption-867a14.netlify.app/
+https://coffee-shop.alex-diaz.info/
